@@ -13,3 +13,4 @@ Thumbs.db
 
 # Local env or temp files
 .env
+responses/state.json
